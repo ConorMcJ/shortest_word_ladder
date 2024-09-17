@@ -69,10 +69,19 @@ This program finds the shortest possible word ladder between two words of a spec
 2. **Output**:
    ```
    Shortest Word Ladder found!
-       apple
-       ample
        grape
-   Word Ladder height = 3
+       grate
+       prate
+       prase
+       prise
+       arise
+       anise
+       anile
+       anole
+       amole
+       ample
+       apple
+   Word Ladder height = 12
    ```
 
 ## Error Handling
